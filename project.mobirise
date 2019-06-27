@@ -786,9 +786,9 @@
             "bgColor": "#fafafa",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
+            "overlayOpacity": "0.7"
           },
           "title": "Instagram Feed",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
