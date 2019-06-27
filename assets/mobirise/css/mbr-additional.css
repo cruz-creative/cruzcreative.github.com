@@ -1845,6 +1845,49 @@ body {
 .cid-rujqMgZOg7 .card {
   padding-bottom: 2rem;
 }
+.cid-ruAN7Xserm {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/volcano-1-1920x1080.jpg");
+}
+.cid-ruAN7Xserm .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-ruAN7Xserm .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-ruAN7Xserm .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-ruAN7Xserm .team-item .item-image img {
+  width: 100%;
+}
+.cid-ruAN7Xserm .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-ruAN7Xserm .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-ruAN7Xserm .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-ruAN7Xserm .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-ruAN7Xserm .team-item .item-caption {
+  background: #efefef;
+}
+.cid-ruAN7Xserm H2 {
+  color: #ffffff;
+}
 .cid-ruk7BvF5g1 {
   padding-top: 30px;
   padding-bottom: 30px;
